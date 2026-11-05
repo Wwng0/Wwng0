@@ -1,16 +1,21 @@
-## Hi there 👋
+# hey, i'm hugo :)
 
-<!--
-**Wwng0/Wwng0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+21 · electronic engineering student · madrid, spain
 
-Here are some ideas to get you started:
+i like tinkering with electronics, computers and pretty much anything i can modify, build or break (and hopefully fix).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stuff i'm messing around with
+
+- **electronics** — digital logic, VHDL, FPGAs & circuits
+- **software** — android apps and random experiments
+- **linux** — home servers, networking & self-hosting
+- **3d printing** — designing and making stuff
+- **home automation** — raspberry pi & home assistant
+
+### some of my projects
+
+- **penjamin notes** — my customized version of an open-source notes app
+- **home server** — a place for my files, notes and other experiments
+- **home assistant** — automating things around the house
+
+always learning, always tinkering.
